@@ -1,3 +1,4 @@
+#pull the image from index.docker.io
 FROM store/oracle/jdk:11
 COPY src DockerFirst
 WORKDIR DockerFirst
